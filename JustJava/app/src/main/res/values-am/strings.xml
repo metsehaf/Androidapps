@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="thank_you">አመሰግናለው</string>
+    <string name="toppings">ጭማሪ</string>
+    <string name="Whipped_Cream">ክሬም</string>
+    <string name="Chocolate">ቸኮሌት</string>
+    <string name="Quantity">መጠን</string>
+</resources>
